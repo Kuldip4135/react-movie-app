@@ -27,7 +27,7 @@ img {
 
 .app-header {
   background: #37369b;
-  padding: 5rem 1rem 1rem;
+  padding: 5rem 1rem;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
